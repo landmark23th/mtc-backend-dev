@@ -1,2 +1,2 @@
-# mtc-backend-dev
-python  for MTC Terraform Course
+# This is a dev python repository for backend developers. 
+The infra was last modified by Terry H.
